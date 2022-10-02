@@ -1,0 +1,15 @@
+D:\zadacha s kodom\shumasov\bin\Debug\net6.0\shumasov.exe
+D:\zadacha s kodom\shumasov\bin\Debug\net6.0\shumasov.deps.json
+D:\zadacha s kodom\shumasov\bin\Debug\net6.0\shumasov.runtimeconfig.json
+D:\zadacha s kodom\shumasov\bin\Debug\net6.0\shumasov.dll
+D:\zadacha s kodom\shumasov\bin\Debug\net6.0\shumasov.pdb
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.csproj.AssemblyReference.cache
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.GeneratedMSBuildEditorConfig.editorconfig
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.AssemblyInfoInputs.cache
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.AssemblyInfo.cs
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.csproj.CoreCompileInputs.cache
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.dll
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\refint\shumasov.dll
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.pdb
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\shumasov.genruntimeconfig.cache
+D:\zadacha s kodom\shumasov\obj\Debug\net6.0\ref\shumasov.dll
